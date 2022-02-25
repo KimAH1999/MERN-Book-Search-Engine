@@ -48,6 +48,9 @@ cd client folder,
 then, 
 npm run build,
 npm run start/npm run develop {/*Best section would be to use client folder for a open.PORT directory*/}
+
+You also have to create a login profile to be able to save books in your account to test.
+
 ```
 
 ## Questions
