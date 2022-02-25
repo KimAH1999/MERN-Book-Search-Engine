@@ -24,7 +24,7 @@ The most modern websites are driven by two things: data and user demands. This F
 To install necessary dependencies, run the following command:
 
 ```
-npm install
+npm install {/*To each, client folder, server folder, and develop folder*/}
 ```
 
 ## Usage
@@ -44,9 +44,10 @@ Available to be reached through Linkdin and Slack, which is avilable in personal
 To run tests, run the following command:
 
 ```
-npm run build
-
-npm run start/npm run develop
+cd client folder, 
+then, 
+npm run build,
+npm run start/npm run develop {/*Best section would be to use client folder for a open.PORT directory*/}
 ```
 
 ## Questions
