@@ -3,7 +3,7 @@
 
 ## Description
 
-This MERN Book Search Engin ...
+The most modern websites are driven by two things: data and user demands. This Full Stack MERN database project was to create a Book Search Engine that is MongoDB, Express.js, React.js, and Node.js, and to wrap it all up, to be able to work using Heroko server. The starter code was that it was already set up to allow users to save book searches to the back end. 
 
 ## Table of Contents 
 
@@ -44,7 +44,9 @@ Available to be reached through Linkdin and Slack, which is avilable in personal
 To run tests, run the following command:
 
 ```
-npm run build.. npm run start/npm run develop
+npm run build
+
+npm run start/npm run develop
 ```
 
 ## Questions
